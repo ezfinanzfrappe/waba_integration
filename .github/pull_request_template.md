@@ -8,6 +8,3 @@
 - [ ]
 
 ## Screenshots / logs (if relevant)
-
----
-🤖 Linus will auto-review this PR via Claude (Mohan's Claude Max sub).
