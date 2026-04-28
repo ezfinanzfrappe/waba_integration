@@ -1,0 +1,3 @@
+# Default owner for all files. Soft routing only on Free GitHub plan
+# (no enforcement of approval) — Linus + Telegram is the actual gate.
+* @ezfinanzcodebase
